@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najaas&label=Profile%20views&color=0e75b6&style=flat" alt="najaas" /> </p>
 
-- 🔭 I’m currently working on **Pe-Cart**
+- 🔭 I’m currently working on **Movie Website**
  
 <h3 align="left">Connect with me: 7406941223 </h3>
 <p align="left">
